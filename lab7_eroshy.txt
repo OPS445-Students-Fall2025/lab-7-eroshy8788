@@ -1,0 +1,11 @@
+test_0 (__main__.lab7i.test_0)
+[Lab 7] - [Investigation 3] - [Part 3] - Local/Global Scope - Test for file creation: ./lab7i.py ... ok
+test_b1_run (__main__.lab7i.test_b1_run)
+[Lab 7] - [Investigation 3] - [Part 3] - Global scope - Test for successful execution: ./lab7i.py ... ok
+test_b2_run (__main__.lab7i.test_b2_run)
+[Lab 7] - [Investigation 3] - [Part 3] - Global scope - Test for correct output: ./lab7i.py ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.018s
+
+OK
